@@ -83,6 +83,6 @@ const arcadeConfig = ArcadeConfig(
   fallDown: false,
   tip1Id: 'pixelpinwheellollipop',
   tip2Id: 'pixelpinwheelsmoothie',
-  tip1Label: '💛 Buy me a lollipop',
-  tip2Label: '💛 Buy me a smoothie',
+  tip1Label: '💛 Pixel Pinwheel lollipop',
+  tip2Label: '💛 Pixel Pinwheel smoothie',
 );
